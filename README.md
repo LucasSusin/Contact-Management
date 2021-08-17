@@ -9,6 +9,8 @@
 
   <p align="center">
     Multi-user & Multi-form Contact Management made in Delphi (Pascal)
+    <br/>
+    ⚠️High School Project
   </p>
 </p>
 
