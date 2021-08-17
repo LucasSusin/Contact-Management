@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/LucasSusin/Contact-Management.git
    ```
-2. Download ".exe"
+2. Open ".exe"
    ```sh
    From Win32 folder
    ```
